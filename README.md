@@ -6,6 +6,7 @@
 * [Questions](#questions)
 
 This employee tracker allows the user to organize a business with employees, roles and departments. 
+![Employee tracker image](https://user-images.githubusercontent.com/78002356/130192054-dbf1690d-b9df-4ee6-a595-14e80eda4f5d.JPG)
 
 ### License:
 This project is licensed under:
